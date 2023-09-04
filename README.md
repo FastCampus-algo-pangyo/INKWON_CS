@@ -5,5 +5,6 @@
 <tr><td rowspan="1">3주차</td><td><a href = "https://volcano-catfish-a3b.notion.site/27b2abfd80d64e059179f6cdcfa24c7e?pvs=4">비선형 자료구조 1</a></td></tr>
 <tr></tr><td rowspan="1">4주차</td><td><a href = "https://volcano-catfish-a3b.notion.site/22e3e50f57914035aa459298fc65aba7?pvs=4">비선형 자료구조 2 + 알고리즘</a></td></tr>
 <tr></tr><td rowspan="1">5주차</td><td><a href = "https://volcano-catfish-a3b.notion.site/1-e8f12ee148b24dfb9ec4fb59eeb3b031?pvs=4">데이터베이스1</a></td></tr>
+<tr></tr><td rowspan="1">6주차</td><td><a href = "[https://volcano-catfish-a3b.notion.site/1-e8f12ee148b24dfb9ec4fb59eeb3b031?pvs=4](https://volcano-catfish-a3b.notion.site/2-7e5471acc6a647df891ea261c946db21?pvs=4)https://volcano-catfish-a3b.notion.site/2-7e5471acc6a647df891ea261c946db21?pvs=4">데이터베이스2</a></td></tr>
   
 </table>
