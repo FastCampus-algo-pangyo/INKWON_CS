@@ -7,7 +7,7 @@
 <tr></tr><td rowspan="1">5주차</td><td><a href = "https://volcano-catfish-a3b.notion.site/1-e8f12ee148b24dfb9ec4fb59eeb3b031?pvs=4">데이터베이스1</a></td></tr>
 <tr></tr><td rowspan="1">6주차</td><td><a href = "https://volcano-catfish-a3b.notion.site/2-7e5471acc6a647df891ea261c946db21?pvs=4">데이터베이스2</a></td></tr>
 <tr></tr><td rowspan="1">7주차</td><td><a href = "https://volcano-catfish-a3b.notion.site/3-1ff2453de7b14368a26561d6ccf417a6?pvs=4">데이터베이스3</a></td></tr>
-<tr></tr><td rowspan="1">11주차</td><td><a href = "[https://volcano-catfish-a3b.notion.site/3-1ff2453de7b14368a26561d6ccf417a6?pvs=4](https://volcano-catfish-a3b.notion.site/4-Query-e86602d888cc4ac19f3272bd78eb1693?pvs=4)https://volcano-catfish-a3b.notion.site/4-Query-e86602d888cc4ac19f3272bd78eb1693?pvs=4">데이터베이스4</a></td></tr>
+<tr></tr><td rowspan="1">11주차</td><td><a href = "https://volcano-catfish-a3b.notion.site/4-Query-e86602d888cc4ac19f3272bd78eb1693?pvs=4">데이터베이스4</a></td></tr>
 
   
 </table>
